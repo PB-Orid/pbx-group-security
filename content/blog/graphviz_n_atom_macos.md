@@ -29,7 +29,7 @@ Hit Return key on your keyboard.
 At this stage, it will ask you to provide your login password. Type your password in Terminal, after the word ‘Password:’.
 Once Homebrew is installed you will see confirmation as it’s shown on the below screenshot followed by your machine and user names ending with $ :
 
-"/img/blog//gv1_image1.png"
+![]/(img/blog//gv1_image1.png)
 
 To confirm that brew was successfully installed run the below command in Terminal:
 <br>  `  which brew ` </br>
