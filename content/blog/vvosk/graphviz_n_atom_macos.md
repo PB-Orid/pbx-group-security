@@ -8,12 +8,12 @@ As a result, the main reason for writing of this blog post was a lack of a strai
 This guide will introduce one of the ways building graphs with text (DOT-language style) and text editor such as Atom. There are different ways of creating graphs with DOT-language. 
 To name few:
 - In online editor, eg: [WebGraphViz](http://www.webgraphviz.com/)
-- IDE/text editor + GraphViz application [+ IDE Plugins]
+- IDE/text editor + GraphViz application + IDE Plugins
 - RStudio + R + DiagrammeR
 
 The first option in the above list is the fastest way to start building your graphs with DOT-language. You just simply need to run that website in your favourite Internet browser, eg Mozilla Firefox, Google Chrome, Internet Explorer or Safari. And start building DOT-diagrams. So, I believe, this option does not require much attention. 
 
-Today, I will stop my attention at the option 2: “IDE/text editor + GraphViz application [ + Plugins]”. The latter means, that in order to build DOT-graphs we will need to utilise the following 3 main tools:
+Today, I will stop my attention at the option 2: *IDE/text editor + GraphViz application + Plugins*. The latter means, that in order to build DOT-graphs we will need to utilise the following 3 main tools:
 1.	GraphViz application – to be able to convert DOT-text into grpahs.
 2.	IDE/Text editor – which is Atom.io for the purpose of this article.
 3.	Atom GraphViz plugin(s) – visualise Dot-diagrams in real-time within Atom.
